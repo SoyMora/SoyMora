@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ivan Mora</h1>
-  <h4 align="center">Welcome to my corner in the vast world of full-stack software development! I am a dedicated high school student at CBTIS 130 in Mexico, determined to carve my path as a standout backend developer with a specific focus on software development.</h4>
+  <h4 align="center">Welcome to my corner in the vast world of full-stack software development! I am a dedicated high school student at CBTIS 130 in Mexico, determined to carve my path as a standout backend developer with a specific focus on fullstack software development.</h4>
 </div>
 
 # 💫 About Me
