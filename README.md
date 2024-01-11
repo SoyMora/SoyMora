@@ -43,6 +43,6 @@
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 👨‍💻✨
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soymora.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=soymora.visitor-badge)
 
 ---
