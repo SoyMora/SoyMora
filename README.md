@@ -1,4 +1,4 @@
-  <h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hey there, I'm Ivan Mora, aka "SoyMora"! 🚀</h1>
+  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ivan Mora</h1>
 
 ![Ivan Mora](https://your-image-url-here)
 
