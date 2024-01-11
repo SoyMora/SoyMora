@@ -29,10 +29,10 @@
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SoyMoraMX)
 
 ### 📫 How to Reach Me
-- 📧 Email: your.email@example.com
+- 📧 Email: SoyMoraMX@gmail.com
 
 ### 💬 Fun Fact
 - Shy and a bit antisocial, but loves meaningful conversations once comfortable.
@@ -44,5 +44,3 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
 ---
-
-**Note:** Don't forget to replace the placeholder images and links with your actual information. Feel free to customize and make it your own!
