@@ -28,6 +28,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SoyMoraMX)
 
+  <a href="https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+  </a>
+    <a href="https://www.linkedin.com/in/https://twitter.com/SoyMoraMX">
+    <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
+  </a>
+
+
 ### 📫 How to Reach Me
 - 📧 Email: SoyMoraMX@gmail.com
 
