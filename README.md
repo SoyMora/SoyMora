@@ -8,7 +8,7 @@
 - 🎓 Proud student at CBTIS 130
 - 👨‍💻 Aspiring Fullstack Software Developer
 - 🌐 Fluent in Arduino, C, C#, Java, JavaScript, HTML, CSS, git
-- 🚀 Knowledgeable in Postman, bash, a dash of Docker, Linux, Azure DevOps
+- 🚀 Knowledgeable in Postman, bash, Linux, Azure DevOps
 
 ### 🛠️ Technologies & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -21,7 +21,6 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
