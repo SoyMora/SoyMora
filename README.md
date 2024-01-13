@@ -1,53 +1,45 @@
-<h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Ivan Mora 🚀</h1>
+  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ivan Mora</h1>
 <div align="center">
     <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-## 🌟 Sobre mí
-- 👨‍💻 Aspiro a ser un desarrollador de software fullstack
-- 🌐 Fluido en Arduino, C, C#, Java, JavaScript, HTML, CSS, git
-- 🚀 Conocimientos en Postman, bash, Linux, Azure DevOps
-- 🎨 En mis ratos libres me gusta dibujar
-- 😺 Amante de los gatos y del color morado
-- 🎯 Actualmente estoy aprendiendo a ser desarrollador de software fullstack con todas sus arquitecturas
-- 🧪 También tengo conocimientos en Unit Testing, APIs RESTfuls, Arquitectura BackEnd, Bases de datos como MySQL, SQLServer, SQLite, al igual que conocimientos en POO
-- 💡 Tengo conocimientos en Arduino y C
-- 🌱 Actualmente estoy aprendiendo a ser desarrollador de software fullstack con todas sus arquitecturas
-- 📚 También tengo conocimientos en Unit Testing, APIs RESTfuls, Arquitectura BackEnd, Bases de datos como MySQL, SQLServer, SQLite, al igual que conocimientos en POO
-- 🎨 Me gustan los gatos y me gusta también el color demasiado, y creo que es el destino por mi apellido Mora (Morado)
-- 🤖 También tengo conocimientos en Arduino y C
-- ✍️ En mis ratos libres me gusta dibujar (no soy experto)
-- 🚀 También me gusta el desarrollo personal y estoy pensando en crear mi marca personal para programadores
 
-## 🛠️ Tecnologías y herramientas
-!Arduino
-!C
-!C#
-!Java
-!JavaScript
-!HTML
-!CSS
-!git
-!Postman
-!bash
-!Linux
-!Azure DevOps
+### About Me
+- 👨‍💻 Aspiring Fullstack Software Developer
+- 🌐 Fluent in Arduino, C, C#, Java, JavaScript, HTML, CSS, git
+- 🚀 Knowledgeable in Postman, bash, Linux, Azure DevOps
 
-## 🌱 Actualmente aprendiendo
+### 🛠️ Technologies & Tools
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 🌱 Currently Learning
+
 - Expanding VSCode knowledge 🔷
 - Mastering Fullstack Software Development 💻
 - Learning Personal Brand ⚗️
 
-## 🤝 Conéctate conmigo
-!LinkedIn
-!Twitter
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SoyMoraMX)
 
-## 📫 Cómo contactarme
+### 📫 How to Reach Me
 - 📧 Email: SoyMoraMX@gmail.com
 
-## 💬 Dato curioso
-- Tímido y un poco antisocial, pero ama las conversaciones significativas una vez que se siente cómodo.
+### 💬 Fun Fact
+- Shy and a bit antisocial, but loves meaningful conversations once comfortable.
 
-## 🚀 ¡Codifiquemos juntos y hagamos que suceda la magia! 🌟
+### 🚀 Let's Code Together and Make Magic Happen! 🌟
 
-No dudes en explorar mis repositorios y no dudes en contactarme para colaborar o simplemente para tener una charla amigable! 👨‍💻✨
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 👨‍💻✨
+---
