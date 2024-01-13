@@ -5,7 +5,6 @@
 
 
 ### About Me
-- 🎓 Proud student at CBTIS 130
 - 👨‍💻 Aspiring Fullstack Software Developer
 - 🌐 Fluent in Arduino, C, C#, Java, JavaScript, HTML, CSS, git
 - 🚀 Knowledgeable in Postman, bash, Linux, Azure DevOps
@@ -41,5 +40,4 @@
 ### 🚀 Let's Code Together and Make Magic Happen! 🌟
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 👨‍💻✨
-
 ---
