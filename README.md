@@ -24,8 +24,10 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### 🌱 Currently Learning
-- Expanding Docker knowledge 🐳
-- Mastering Fullstack Development 💻
+
+- Expanding VSCode knowledge 🔷
+- Mastering Fullstack Software Development 💻
+- Learning Personal Brand
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/)
