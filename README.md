@@ -27,7 +27,7 @@
 
 - Expanding VSCode knowledge 🔷
 - Mastering Fullstack Software Development 💻
-- Learning Personal Brand
+- Learning Personal Brand ⚗️
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/)
