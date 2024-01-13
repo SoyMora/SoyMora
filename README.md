@@ -14,7 +14,7 @@
 ### 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,atom,azure,bash,c,cs,css,discord,docker,dotnet,git,github,gmail,html,idea,java,js,linkedin,linux,md,mysql,neovim,postman,sqlite,stackoverflow,twitter,vim,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=arduino,atom,azure,bash,c,cs,css,discord,docker,dotnet,git,github,gmail,html,idea,java,js,linux,md,mysql,neovim,postman,sqlite,stackoverflow,vim,visualstudio,vscode&perline=14" />
   </a>
 </p>
 
@@ -25,13 +25,10 @@
 - Learning Personal Brand ⚗️
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SoyMoraMX)
-
   <a href="https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
-    <a href="https://www.linkedin.com/in/https://twitter.com/SoyMoraMX">
+    <a href="https://twitter.com/SoyMoraMX">
     <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
   </a>
 
