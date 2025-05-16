@@ -7,22 +7,19 @@
 
 ### About Me
 
-- 👨‍💻 Aspiring Fullstack Software Developer
-- 🌐 Fluent in Arduino, C, C#, Java, HTML, CSS, git
-- 🚀 Knowledgeable in Postman, bash, Linux, Azure DevOps
+- 👨‍💻 Aspiring Fullstack Web Developer
 
 ### 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,atom,azure,bash,c,cs,css,discord,docker,dotnet,git,github,gmail,html,idea,java,linux,md,mysql,neovim,postman,sqlite,stackoverflow,vim,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=atom,css,discord,github,gmail,html,mysql,neovim,sqlite,stackoverflow,vim,vscode&perline=14" />
   </a>
 </p>
 
 ### 🌱 Currently Learning
 
 - Expanding VSCode knowledge 🔷
-- Mastering Fullstack Software Development 💻
-- Learning Personal Brand ⚗️
+- Mastering Fullstack Web Development 💻
 
 ### 🤝 Connect with Me
   <a href="https://www.linkedin.com/in/ricardo-ivan-mora-salazar-7746162a9/">
